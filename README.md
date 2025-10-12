@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1CFF84&width=435&lines=Software+Engineering;DevOps;Team+Building)](https://git.io/typing-svg)
 
+<p>
 I build systems that scale and teams that deliver.
 
 I take products from sketch to scale — design, code, deploy, and iterate.
@@ -9,8 +10,15 @@ I take products from sketch to scale — design, code, deploy, and iterate.
 I’m obsessed with teams that learn faster than they fail, and products that get
 better every time you ship.
 
-> “Your title makes you a manager. Your people make you a leader.” — Bill
-> Campbell, Trillion Dollar Coach
+</p>
+
+> “Your title makes you a manager. Your people make you a leader.” — _Bill
+> Campbell, Trillion Dollar Coach_
+
+---
+
+<img src="https://media.tenor.com/jb56fVPgnpkAAAAM/busy-cats.gif" width="100" height="100"
+/>
 
 ### ⚙️ What I Build With
 
@@ -55,16 +63,26 @@ better every time you ship.
 
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
+**To Test and Ensure**
+
+[![Cypress](https://img.shields.io/badge/Cypress-04C38E?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
 **To Scale and Deliver**
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-### ⏪ Tools I've Worked With In My Past Roles
+---
+
+### 🛠️ Tools I've Worked With In My Past Roles
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
 [![Starlette](https://img.shields.io/badge/Starlette-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.starlette.io/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Request Tracker](https://img.shields.io/badge/Request_Tracker-003366?style=for-the-badge)](https://bestpractical.com/request-tracker)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -78,17 +96,23 @@ better every time you ship.
 [![Apache APISIX](https://img.shields.io/badge/Apache_APISIX-D42029?style=for-the-badge&logo=apacheapisix&logoColor=white)](https://apisix.apache.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+
+---
+
+<img src="https://media.tenor.com/Z3JoBmhZR4EAAAAM/cat-cat-reading.gif" width="100" height="100"
+/>
 
 ### 💡 Currently Deepening My Understanding Of
 
 - Assembly
 - AI & Machine Learning
 - Economics
-- Japanese 🇯🇵
+- 日本語 🇯🇵
 
-> “Your knowledge is a lagging measure of your learning habits.” — James Clear,
-> Atomic Habits
+> “Your knowledge is a lagging measure of your learning habits.” — _James Clear,
+> Atomic Habits_
