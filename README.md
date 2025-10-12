@@ -1,11 +1,11 @@
 # Myo Bandar Hlaing Bwar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1CFF84&width=435&lines=Software+Engineering;DevOps;Team+Building)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=1CFF84&width=435&lines=DESIGN;DESIGN+>+BUILD;DESIGN+>+BUILD+>+SHIP;DESIGN+>+BUILD+>+SHIP+>+LEARN;REPEAT)
 
 <p>
 I build systems that scale and teams that deliver.
 
-I take products from sketch to scale — design, code, deploy, and iterate.
+I take products from vision to reality — design, build, ship, and learn.
 
 I’m obsessed with teams that learn faster than they fail, and products that get
 better every time you ship.
@@ -34,6 +34,7 @@ better every time you ship.
 **To Shape The Experience**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -84,7 +85,6 @@ better every time you ship.
 [![Starlette](https://img.shields.io/badge/Starlette-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.starlette.io/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Request Tracker](https://img.shields.io/badge/Request_Tracker-003366?style=for-the-badge)](https://bestpractical.com/request-tracker)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Keycloak](https://img.shields.io/badge/Keycloak-0071C5?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloak.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
